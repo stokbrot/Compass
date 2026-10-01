@@ -1,0 +1,9 @@
+// Deploy
+
+npm run build
+sudo mkdir -p /srv/site/game
+sudo cp -r dist/* /srv/site/game/
+
+
+// Dev host
+npm run dev -- --host
