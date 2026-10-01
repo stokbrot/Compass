@@ -1,1 +1,1 @@
-stokbrot.com/game
+[Game](https://stokbrot.com/game)
